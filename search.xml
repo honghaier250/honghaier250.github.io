@@ -8,9 +8,21 @@
       <link href="/2023/03/31/everything-i-wish-i-knew-when-learning-c/"/>
       <url>/2023/03/31/everything-i-wish-i-knew-when-learning-c/</url>
       
-        <content type="html"><![CDATA[<ul><li><a href="https://tmewett.com/c-tips/" target="_blank" rel="noopener">Everything I wish I knew when learning C</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="通用资源"><a href="#通用资源" class="headerlink" title="通用资源"></a>通用资源</h2><ul><li><a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank" rel="noopener">TutorialsPoint C</a>: very basic intro</li><li><a href="https://github.com/oz123/awesome-c" target="_blank" rel="noopener">awesome-c</a>: big list of libraries and tools</li><li><a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener">cppreference</a>: technical reference for the C language and standard library</li></ul><h2 id="项目实践"><a href="#项目实践" class="headerlink" title="项目实践"></a>项目实践</h2><p>Sometimes it’s helpful to just read some small, self-contained C code to get to grips with how it looks.</p><ul><li><a href="https://github.com/whymirror/bloopsaphone/blob/tree/master/c" target="_blank" rel="noopener">Bloopsaphone</a>, a Ruby library for synthesising sounds which has a small C module at  its core. Has a small number of concepts and a good structure.</li><li><a href="https://github.com/antirez/sds" target="_blank" rel="noopener">Simple Dynamic Strings (sds)</a>. Has one .c and .h file each, and is a good example of how you might do more complex resource management.</li><li><a href="https://github.com/tmewett/BrogueCE" target="_blank" rel="noopener">Brogue CE</a>, a  roguelike video game. This is larger and less perfected, at &gt;30k LOC. But I maintain it, and many of our contributors have sharpened their C  by working on it.</li><li><a href="https://github.com/nothings/stb" target="_blank" rel="noopener">stb single-file libraries</a>. These are small to medium-sized modules designed to be highly portable, including targetting embedded devices and games consoles.</li></ul><h2 id="参考资源"><a href="#参考资源" class="headerlink" title="参考资源"></a>参考资源</h2><p><a href="https://tmewett.com/c-tips/" target="_blank" rel="noopener">Everything I wish I knew when learning C </a></p>]]></content>
       
       
+      <categories>
+          
+          <category> C </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编程语言 </tag>
+            
+        </tags>
       
     </entry>
     
