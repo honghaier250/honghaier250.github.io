@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孩儿的博客</title>
+  
+  <subtitle>博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://honghaier250.github.io/"/>
+  <updated>2023-03-31T07:08:48.328Z</updated>
+  <id>https://honghaier250.github.io/</id>
+  
+  <author>
+    <name>孩儿</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Everything I wish I knew when learning C </title>
+    <link href="https://honghaier250.github.io/2023/03/31/everything-i-wish-i-knew-when-learning-c/"/>
+    <id>https://honghaier250.github.io/2023/03/31/everything-i-wish-i-knew-when-learning-c/</id>
+    <published>2023-03-31T02:32:56.000Z</published>
+    <updated>2023-03-31T07:08:48.328Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://tmewett.com/c-tips/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Everything I wish I knew when learning
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://honghaier250.github.io/2022/06/07/index/"/>
+    <id>https://honghaier250.github.io/2022/06/07/index/</id>
+    <published>2022-06-07T03:20:16.648Z</published>
+    <updated>2022-05-14T03:12:09.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
